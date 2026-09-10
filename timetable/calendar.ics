@@ -1,0 +1,37 @@
+---
+layout: null
+sitemap: false
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yeyeah.life//PKU Timetable 2026 Fall//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:北大课表 · 2026 秋季
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+{% for e in site.data.timetable.events %}{% assign c = site.data.timetable.courses[e[1]] %}BEGIN:VEVENT
+UID:pku-2627s1-{{ c[0] }}-{{ c[5] }}-{{ e[5] }}@yeyeah.life
+DTSTAMP:{{ site.data.timetable.calendarUpdatedUTC }}
+LAST-MODIFIED:{{ site.data.timetable.calendarUpdatedUTC }}
+DTSTART;TZID=Asia/Shanghai:{{ e[0] | remove: "-" }}T{{ e[2] | remove: ":" }}00
+DTEND;TZID=Asia/Shanghai:{{ e[0] | remove: "-" }}T{{ e[3] | remove: ":" }}00
+SUMMARY:{{ c[1] }}{% if e[6] != "" %} · {{ e[6] }}{% endif %}
+LOCATION:{{ e[4] }}
+DESCRIPTION:第 {{ e[7] }} 教学周 / 第 {{ e[5] }} 次课\n
+ 以学院和任课教师通知为准。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+{% endfor %}END:VCALENDAR

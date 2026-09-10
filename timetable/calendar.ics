@@ -21,7 +21,7 @@ TZOFFSETTO:+0800
 TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
-{% for e in site.data.timetable.events %}{% assign c = site.data.timetable.courses[e[1]] %}BEGIN:VEVENT
+{% for e in site.data.timetable.events %}{% assign course_index = e[1] %}{% assign c = site.data.timetable.courses[course_index] %}BEGIN:VEVENT
 UID:pku-2627s1-{{ c[0] }}-{{ c[5] }}-{{ e[5] }}@yeyeah.life
 DTSTAMP:{{ site.data.timetable.calendarUpdatedUTC }}
 LAST-MODIFIED:{{ site.data.timetable.calendarUpdatedUTC }}

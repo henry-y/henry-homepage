@@ -21,7 +21,7 @@ My research interests focus on **Efficient Gen AI** and **MLSys**. Visit my [goo
 
 # 🔥 News
 
-- *2026.09*: &nbsp;📄 New preprint [DC-SAE](https://dagroup-pku.github.io/DCSAE/) released on arXiv!
+- *2026.09*: &nbsp;🎉 One paper ([DC-SAE](https://dagroup-pku.github.io/DCSAE/)) accepted by NeurIPS 26!
 - *2026.01*: &nbsp;🎉 One paper accepted by ICLR 26!
 - *2025.10*: &nbsp;🎓  I was awarded the **National Scholarship** for the third time!
 - *2025.08*: &nbsp;🎉 One paper accepted by ICCD 25!
@@ -35,14 +35,14 @@ My research interests focus on **Efficient Gen AI** and **MLSys**. Visit my [goo
 
 *\* indicates equal contribution.*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/dcsae.png' alt="DC-SAE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/dcsae.png' alt="DC-SAE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence](https://arxiv.org/abs/2609.39222)
 
 Xu Huang\*, **Ye Huang\***, Zijun Liao\*, Yuwei Niu, Xiaojie Li, Menghan Zhou, De Wen Soh, Xiaotong Li, Daquan Zhou
 
-*arXiv preprint, 2026*
+*The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**)*
 
 <a href="https://arxiv.org/abs/2609.39222"><button class="button-4" role="button">Paper</button></a> <a href="https://dagroup-pku.github.io/DCSAE/"><button class="button-4" role="button">Project Page</button></a> <a href="https://github.com/DAGroup-PKU/DCSAE"><button class="button-4" role="button">Code</button></a>
 

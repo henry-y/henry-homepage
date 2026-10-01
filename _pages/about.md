@@ -12,9 +12,9 @@ redirect_from:
 
 # 📖 Biography
 
-Hi there! My name is Ye Huang (黄烨). I am a fourth-year undergraduate student majoring in Computer Science at Sun Yat-sen University, under the supervision of Prof. [Jiangsu Du](https://dujiangsu.github.io/).  I am expected to enroll at Peking University in Fall 2026, supervised by Prof. [Daquan Zhou](https://zhoudaquan.github.io/homepage.io/). I am currently a member of [DAGroup](https://github.com/DAGroup-PKU).
+Hi there! My name is Ye Huang (黄烨). I am a first-year Master's student at [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Daquan Zhou](https://zhoudaquan.github.io/homepage.io/), and a member of [DAGroup](https://github.com/DAGroup-PKU). Previously, I received my bachelor's degree in Computer Science from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2026, where I was advised by Prof. [Jiangsu Du](https://dujiangsu.github.io/).
 
-My research interests focus on **Efficient Gen AI** and **MLSys**. Visit my [google scholar profile](https://scholar.google.com/citations?user=sj1ayl8AAAAJ&hl=zh-CN) for most recent publications. For any suggestions or collaborations, please reach out to me at huangy783[at]mail2.sysu.edu.cn.
+My research interests focus on **Efficient Gen AI** and **MLSys**. Visit my [google scholar profile](https://scholar.google.com/citations?user=sj1ayl8AAAAJ&hl=zh-CN) for most recent publications. For any suggestions or collaborations, please reach out to me at huangye26[at]stu.pku.edu.cn.
 
 
 <span class='anchor' id='-news'></span>

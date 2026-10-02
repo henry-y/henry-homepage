@@ -26,7 +26,7 @@ My research interests focus on **Efficient Gen AI** and **MLSys**. Visit my [goo
 - *2025.10*: &nbsp;🎓  I was awarded the **National Scholarship** for the third time!
 - *2025.08*: &nbsp;🎉 One paper accepted by ICCD 25!
 - *2024.11*: &nbsp;🥈 Our team won the **2nd Place** at SC'24 IndySCC!
-- *2024.05*: &nbsp;🏆 Our team won the **Champion** at ISC'24 Student Cluster Competition!
+- *2024.05*: &nbsp;🏆 Our team won the **Champion** at ISC'24 Student Cluster Competition! ([news](https://www.sysu.edu.cn/news/info/2161/1202251.htm))
 
 
 <span class='anchor' id='-publications'></span>

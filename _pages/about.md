@@ -29,17 +29,11 @@ My research focuses on **recursive self-improvement (RSI)**, AI that accelerates
 - *2026.09*: &nbsp;🎉 One paper ([DC-SAE](https://dagroup-pku.github.io/DCSAE/)) accepted by NeurIPS 26!
 - *2026.09*: &nbsp;🏫 I started my Master's at Peking University and joined [DAGroup](https://github.com/DAGroup-PKU).
 - *2026.06*: &nbsp;🎓 I graduated from Sun Yat-sen University with a bachelor's degree in Computer Science.
-
-<details class="more-news">
-<summary>Show earlier news</summary>
-<ul>
-<li><em>2026.01</em>: &nbsp;🎉 One paper accepted by ICLR 26!</li>
-<li><em>2025.10</em>: &nbsp;🎓 I was awarded the <strong>National Scholarship</strong> for the third time!</li>
-<li><em>2025.08</em>: &nbsp;🎉 One paper accepted by ICCD 25!</li>
-<li><em>2024.11</em>: &nbsp;🥈 Our team won the <strong>2nd Place</strong> at SC'24 IndySCC!</li>
-<li><em>2024.05</em>: &nbsp;🏆 Our team won the <strong>Champion</strong> at ISC'24 Student Cluster Competition! (<a href="https://www.sysu.edu.cn/news/info/2161/1202251.htm">news</a>)</li>
-</ul>
-</details>
+- *2026.01*: &nbsp;🎉 One paper accepted by ICLR 26!
+- *2025.10*: &nbsp;🎓 I was awarded the **National Scholarship** for the third time!
+- *2025.08*: &nbsp;🎉 One paper accepted by ICCD 25!
+- *2024.11*: &nbsp;🥈 Our team won the **2nd Place** at SC'24 IndySCC!
+- *2024.05*: &nbsp;🏆 Our team won the **Champion** at ISC'24 Student Cluster Competition! ([news](https://www.sysu.edu.cn/news/info/2161/1202251.htm))
 
 
 <span class='anchor' id='-projects'></span>

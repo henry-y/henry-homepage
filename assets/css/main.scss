@@ -174,20 +174,6 @@ h1:before, .anchor:before {
     color: #00369f;
 }
 
-.more-news {
-    margin: .2em 0 1em;
-    summary {
-        cursor: pointer;
-        color: #52575c;
-        font-size: .9em;
-        list-style: none;
-        &::-webkit-details-marker { display: none; }
-        &:before { content: "▸ "; }
-    }
-    &[open] summary:before { content: "▾ "; }
-    ul { margin-top: .5em; }
-}
-
 .stars {
     display: inline-block;
     vertical-align: middle;

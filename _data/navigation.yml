@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Open Source"
+    url: "/#-open-source"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "CV"
+    url: "/files/Ye_Huang_CV.pdf"
 

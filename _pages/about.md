@@ -51,6 +51,8 @@ My research focuses on **recursive self-improvement (RSI)**, AI that accelerates
 
 [ResearchBoost-Agent (RBA)](https://github.com/DAGroup-PKU/ResearchBoost-Agent)
 
+*Initiator and Project Leader*
+
 An autonomous agent that profiles, optimizes, and validates AI training code: same GPUs, same training semantics, and only the speedups a frozen judge verifies are kept.
 
 <span class="impact">Speedups merged upstream into LLaVA-OneVision-2, OpenWAM, NextTransformer and G-STAR.</span>

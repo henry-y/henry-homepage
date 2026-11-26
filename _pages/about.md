@@ -12,11 +12,11 @@ redirect_from:
 
 # 📖 Biography
 
-<p class="tagline">Efficient Generative Models · ML Systems</p>
+<p class="tagline">Recursive Self-Improvement · Efficiency</p>
 
 Hi there! My name is Ye Huang (黄烨). I am a first-year Master's student at [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Daquan Zhou](https://zhoudaquan.github.io/homepage.io/), and a member of [DAGroup](https://github.com/DAGroup-PKU). Previously, I received my bachelor's degree in Computer Science from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2026, where I was advised by Prof. [Jiangsu Du](https://dujiangsu.github.io/).
 
-My research focuses on **efficient generative models** and **ML systems**. Recently I have been working on deeply compressed tokenizers that make image generation faster to train and to sample ([DC-SAE](https://dagroup-pku.github.io/DCSAE/), [G-STAR](https://dagroup-pku.github.io/G-STAR/)), and on agents that make AI training code faster while keeping only the speedups a frozen judge verifies ([ResearchBoost-Agent](https://github.com/DAGroup-PKU/ResearchBoost-Agent)). Visit my [Google Scholar profile](https://scholar.google.com/citations?user=sj1ayl8AAAAJ) for the full list of publications. For any suggestions or collaborations, please reach out to me at huangye26[at]stu.pku.edu.cn.
+My research focuses on **recursive self-improvement (RSI)**, AI that accelerates the research that advances AI, and on **efficiency**. Recently I have been working on agents that make AI training code faster while keeping only the speedups a frozen judge verifies ([ResearchBoost-Agent](https://github.com/DAGroup-PKU/ResearchBoost-Agent), [RSI-Infra Bench](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/)), and on deeply compressed tokenizers that make image generation faster to train and to sample ([DC-SAE](https://dagroup-pku.github.io/DCSAE/), [G-STAR](https://dagroup-pku.github.io/G-STAR/)). Visit my [Google Scholar profile](https://scholar.google.com/citations?user=sj1ayl8AAAAJ) for the full list of publications. For any suggestions or collaborations, please reach out to me at huangye26[at]stu.pku.edu.cn.
 
 
 <span class='anchor' id='-news'></span>
@@ -42,13 +42,42 @@ My research focuses on **efficient generative models** and **ML systems**. Recen
 </details>
 
 
+<span class='anchor' id='-projects'></span>
+
+# 🛠 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source</div><img src='images/rba.jpg' alt="ResearchBoost-Agent" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ResearchBoost-Agent (RBA)](https://github.com/DAGroup-PKU/ResearchBoost-Agent)
+
+An autonomous agent that profiles, optimizes, and validates AI training code: same GPUs, same training semantics, and only the speedups a frozen judge verifies are kept.
+
+<span class="impact">Speedups merged upstream into LLaVA-OneVision-2, OpenWAM, NextTransformer and G-STAR.</span>
+
+<a href="https://github.com/DAGroup-PKU/ResearchBoost-Agent"><button class="button-4" role="button">Code</button></a> <a href="https://ydove0324.github.io/hx_resume/blog/researchboost/"><button class="button-4" role="button">Blog</button></a> <a href="https://ai4ai-for-anything.github.io/#research"><button class="button-4" role="button">Project Page</button></a> <a class="stars" href="https://github.com/DAGroup-PKU/ResearchBoost-Agent"><img src="https://img.shields.io/github/stars/DAGroup-PKU/ResearchBoost-Agent?style=social" alt="GitHub stars"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Benchmark</div><img src='images/rsi-bench.jpg' alt="RSI-Infra Bench leaderboard" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RSI-Infra Bench](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/)
+
+How much faster can a coding agent make real AI training code? Eight real training workloads, ten hours each, scored by RBA's frozen judge.
+
+<a href="https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/leaderboard/"><button class="button-4" role="button">Leaderboard</button></a> <a href="https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/"><button class="button-4" role="button">Blog</button></a> <a href="https://github.com/DAGroup-PKU/ResearchBoost-Agent/tree/bench"><button class="button-4" role="button">Code</button></a>
+
+</div>
+</div>
+
+
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications
 
-## Selected Publications
-
-*\* indicates equal contribution.*
+*\* indicates equal contribution. Full list on [Google Scholar](https://scholar.google.com/citations?user=sj1ayl8AAAAJ).*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/gstar.jpg' alt="G-STAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,63 +134,6 @@ Jinhui Wei\*, **Ye Huang\***, Yuhui Zhou, Jiazhi Jiang, Jiangsu Du, Yutong Lu
 
 </div>
 </div>
-
-## Other Publications
-
-<ul class="pub-list">
-<li><a href="https://arxiv.org/abs/2611.08318">Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement</a><br>
-<span class="authors">Wenbo Huang, Jianxin Bi, Shunyu Yang, …, <strong>Ye Huang</strong>, Shukai Gong, Daquan Zhou</span><br>
-<span class="venue">arXiv preprint, 2026</span> · <a href="https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge/">Project Page</a></li>
-<li><a href="https://arxiv.org/abs/2611.06817">Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models</a><br>
-<span class="authors">Juncheng Ma, Jiaxin Li, Jiankai Tu, …, <strong>Ye Huang</strong>, …, Daquan Zhou</span><br>
-<span class="venue">arXiv preprint, 2026</span> · <a href="https://dagroup-pku.github.io/open-humanwam/">Project Page</a> · <a href="https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM">Code</a></li>
-<li><a href="https://arxiv.org/abs/2610.02368">Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation</a><br>
-<span class="authors">Shukai Gong, Xuanran Zhai, Yintianrun Zhang, Ruopeng Cui, <strong>Ye Huang</strong>, …, Daquan Zhou</span><br>
-<span class="venue">arXiv preprint, 2026</span> · <a href="https://dagroup-pku.github.io/ViGAR/">Project Page</a> · <a href="https://github.com/DAGroup-PKU/ViGAR">Code</a></li>
-<li><a href="https://arxiv.org/abs/2606.28128">PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation</a><br>
-<span class="authors">Peiwen Zhang, Yufan Deng, Shangkun Sun, …, <strong>Ye Huang</strong>, …, Daquan Zhou</span><br>
-<span class="venue">arXiv preprint, 2026</span> · <a href="https://dagroup-pku.github.io/PhysisForcing.github.io/">Project Page</a> · <a href="https://github.com/DAGroup-PKU/PhysisForcing">Code</a></li>
-<li><a href="https://arxiv.org/abs/2606.20521">HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining</a><br>
-<span class="authors">Juncheng Ma, Jianxin Bi, Yufan Deng, Xuanran Zhai, Kewei Zhang, <strong>Ye Huang</strong>, …, Daquan Zhou</span><br>
-<span class="venue">arXiv preprint, 2026</span> · <a href="https://dagroup-pku.github.io/open-humanscale/">Project Page</a> · <a href="https://github.com/DAGroup-PKU/HumanNet">Code</a></li>
-<li><a href="https://arxiv.org/abs/2509.07021">MEGS²: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning</a><br>
-<span class="authors">Jiarui Chen, Yikeng Chen, Yingshuang Zou, <strong>Ye Huang</strong>, Peng Wang, Yuan Liu, Yujing Sun, Wenping Wang</span><br>
-<span class="venue">The Fourteenth International Conference on Learning Representations (<strong>ICLR 2026</strong>)</span></li>
-</ul>
-
-<p class="full-list">Full list on <a href="https://scholar.google.com/citations?user=sj1ayl8AAAAJ">Google Scholar</a>.</p>
-
-
-<span class='anchor' id='-open-source'></span>
-
-# 🛠 Open Source & Benchmarks
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Open Source</div><img src='images/rba.jpg' alt="ResearchBoost-Agent" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ResearchBoost-Agent (RBA)](https://github.com/DAGroup-PKU/ResearchBoost-Agent)
-
-An autonomous agent that profiles, optimizes, and validates AI training code: same GPUs, same training semantics, and only the speedups a frozen judge verifies are kept.
-
-<span class="impact">Speedups merged upstream into LLaVA-OneVision-2, OpenWAM, NextTransformer and G-STAR.</span>
-
-<a href="https://github.com/DAGroup-PKU/ResearchBoost-Agent"><button class="button-4" role="button">Code</button></a> <a href="https://ydove0324.github.io/hx_resume/blog/researchboost/"><button class="button-4" role="button">Blog</button></a> <a href="https://ai4ai-for-anything.github.io/#research"><button class="button-4" role="button">Project Page</button></a> <a class="stars" href="https://github.com/DAGroup-PKU/ResearchBoost-Agent"><img src="https://img.shields.io/github/stars/DAGroup-PKU/ResearchBoost-Agent?style=social" alt="GitHub stars"></a>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Benchmark</div><img src='images/rsi-bench.jpg' alt="RSI-Infra Bench leaderboard" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RSI-Infra Bench](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/)
-
-How much faster can a coding agent make real AI training code? Eight real training workloads, ten hours each, scored by RBA's frozen judge.
-
-<a href="https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/leaderboard/"><button class="button-4" role="button">Leaderboard</button></a> <a href="https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/"><button class="button-4" role="button">Blog</button></a> <a href="https://github.com/DAGroup-PKU/ResearchBoost-Agent/tree/bench"><button class="button-4" role="button">Code</button></a>
-
-</div>
-</div>
-
 
 <span class='anchor' id='-honors-and-awards'></span>
 

@@ -12,11 +12,11 @@ redirect_from:
 
 # 📖 Biography
 
-<p class="tagline">Recursive Self-Improvement · Efficiency</p>
+<p class="tagline">Recursive Self-Improvement · Efficiency · Video Generation</p>
 
 Hi there! My name is Ye Huang (黄烨). I am a first-year Master's student at [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Daquan Zhou](https://zhoudaquan.github.io/homepage.io/), and a member of [DAGroup](https://github.com/DAGroup-PKU). Previously, I received my bachelor's degree in Computer Science from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2026, where I was advised by Prof. [Jiangsu Du](https://dujiangsu.github.io/).
 
-My research focuses on **recursive self-improvement (RSI)**, AI that accelerates the research that advances AI, and on **efficiency**. Recently I have been working on agents that make AI training code faster while keeping only the speedups a frozen judge verifies ([ResearchBoost-Agent](https://github.com/DAGroup-PKU/ResearchBoost-Agent), [RSI-Infra Bench](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/)). Visit my [Google Scholar profile](https://scholar.google.com/citations?user=sj1ayl8AAAAJ) for the full list of publications. For any suggestions or collaborations, please reach out to me at huangye26[at]stu.pku.edu.cn.
+My research focuses on **recursive self-improvement (RSI)**, AI that accelerates the research that advances AI, as well as **efficiency** and **video generation**. Recently I have been working on agents that make AI training code faster while keeping only the speedups a frozen judge verifies ([ResearchBoost-Agent](https://github.com/DAGroup-PKU/ResearchBoost-Agent), [RSI-Infra Bench](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/)). Visit my [Google Scholar profile](https://scholar.google.com/citations?user=sj1ayl8AAAAJ) for the full list of publications. For any suggestions or collaborations, please reach out to me at huangye26[at]stu.pku.edu.cn.
 
 
 <span class='anchor' id='-news'></span>
